@@ -1,4 +1,4 @@
-This website is hosted by Firebase
+This website is hosted by Firebase.\
 You can visit website with this link : https://netflix-bandau.web.app/
 
 
