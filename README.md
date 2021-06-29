@@ -1,4 +1,5 @@
 This website is hosted by Firebase.\
+Website has trailer prieview function and all the data is collected from The Movie Database (TMDb).\
 You can visit website with this link : https://netflix-bandau.web.app/
 
 
