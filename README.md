@@ -1,3 +1,7 @@
+This website is hosted by Firebase
+You can visit website with this link : https://netflix-bandau.web.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
